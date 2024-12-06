@@ -1,0 +1,715 @@
+Sr No,Number of Doctors Visited,Age,Phyiscal Health,Mental Health,Dental Health,Employment,Stress Keeps Patient from Sleeping,Medication Keeps Patient from Sleeping,Pain Keeps Patient from Sleeping,Bathroom Needs Keeps Patient from Sleeping,Uknown Keeps Patient from Sleeping,Trouble Sleeping,Prescription Sleep Medication,Race,Gender
+1,4 or more,65 or more,Fair,Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+2,less than 4,65 or more,Fair,Very Good,Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+3,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,Hispanic,Male
+4,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,Hispanic,Female
+5,4 or more,65 or more,Good,Good,Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+6,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+7,4 or more,65 or more,Fair,Excellent,Excellent,Retired,No,No,Yes,Yes,No,Ocassionally,Use regularly,"White, Non-Hispanic",Male
+8,less than 4,65 or more,Good,Very Good,Refused,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+9,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+10,less than 4,65 or more,Very Good,Excellent,Good,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+11,less than 4,65 or more,Good,Excellent,Very Good,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+12,less than 4,65 or more,Good,Very Good,Poor,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+13,less than 4,65 or more,Fair,Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+14,less than 4,65 or more,Good,Very Good,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+15,4 or more,65 or more,Good,Excellent,Excellent,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Male
+16,4 or more,65 or more,Good,Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+17,less than 4,65 or more,Fair,Good,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+18,4 or more,65 or more,Fair,Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+19,less than 4,65 or more,Good,Excellent,Good,Working part-time,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+20,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Male
+21,4 or more,65 or more,Good,Very Good,Good,Retired,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+22,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,Yes,Yes,No,No,Use ocassionally,"White, Non-Hispanic",Female
+23,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+24,less than 4,65 or more,Fair,Very Good,Refused,Retired,No,No,No,Yes,Yes,No,Use regularly,"Black, Non Hispanic",Female
+25,4 or more,65 or more,Fair,Good,Poor,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+26,4 or more,65 or more,Good,Excellent,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+27,less than 4,65 or more,Fair,Excellent,Poor,Retired,Yes,No,Yes,No,No,regularly,Do not use,"White, Non-Hispanic",Male
+28,less than 4,65 or more,Good,Very Good,Refused,Working part-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+29,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+30,4 or more,65 or more,Good,Excellent,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+31,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+32,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+33,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+34,4 or more,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+35,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+36,4 or more,65 or more,Very Good,Excellent,Fair,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+37,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+38,less than 4,65 or more,Good,Good,Good,Working part-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+39,less than 4,65 or more,Very Good,Very Good,Good,Working part-time,No,No,No,No,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+40,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+41,less than 4,65 or more,Good,Good,Excellent,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+42,less than 4,65 or more,Fair,Good,Poor,Retired,Yes,No,No,No,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+43,less than 4,65 or more,Fair,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+44,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+45,less than 4,65 or more,Very Good,Excellent,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+46,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+47,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+48,less than 4,65 or more,Very Good,Excellent,Fair,Working part-time,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+49,4 or more,65 or more,Good,Excellent,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+50,less than 4,65 or more,Fair,Good,Poor,Retired,Yes,No,No,Yes,No,Ocassionally,Use regularly,"White, Non-Hispanic",Male
+51,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+52,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+53,less than 4,65 or more,Good,Very Good,Fair,Retired,Yes,No,No,No,No,regularly,Use regularly,"Black, Non Hispanic",Male
+54,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+55,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+56,less than 4,65 or more,Fair,Fair,Fair,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+57,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+58,less than 4,65 or more,Fair,Excellent,Good,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+59,4 or more,65 or more,Poor,Excellent,Very Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+60,4 or more,65 or more,Very Good,Excellent,Excellent,Retired,No,No,Yes,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+61,4 or more,65 or more,Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,No,Do not use,"2+ Races, Non-Hispanic",Male
+62,less than 4,65 or more,Very Good,Very Good,Excellent,Working full-time,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+63,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+64,less than 4,65 or more,Very Good,Very Good,Excellent,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+65,4 or more,65 or more,Fair,Good,Good,Retired,Yes,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+66,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,Yes,Yes,No,No,Do not use,Hispanic,Male
+67,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+68,less than 4,65 or more,Very Good,Very Good,Good,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+69,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+70,less than 4,65 or more,Poor,Very Good,Poor,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+71,4 or more,65 or more,Good,Fair,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+72,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+73,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+74,4 or more,65 or more,Fair,Excellent,Refused,Retired,No,Yes,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+75,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+76,4 or more,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+77,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+78,less than 4,65 or more,Good,Good,Very Good,Working part-time,No,No,No,Yes,No,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Male
+79,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,Yes,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+80,less than 4,65 or more,Good,Good,Good,Retired,No,Yes,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+81,4 or more,65 or more,Good,Excellent,Fair,Working part-time,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+82,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+83,less than 4,65 or more,Good,Good,Good,Retired,Yes,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+84,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Use ocassionally,"White, Non-Hispanic",Female
+85,less than 4,65 or more,Good,Good,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+86,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+87,less than 4,65 or more,Good,Good,Excellent,Retired,No,No,Yes,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+88,less than 4,65 or more,Very Good,Very Good,Very Good,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+89,less than 4,65 or more,Fair,Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+90,less than 4,65 or more,Excellent,Refused,Fair,Retired,No,No,No,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+91,less than 4,65 or more,Fair,Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"Black, Non Hispanic",Female
+92,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+93,4 or more,65 or more,Good,Excellent,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+94,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+95,less than 4,65 or more,Very Good,Excellent,Good,Working full-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+96,less than 4,65 or more,Very Good,Very Good,Very Good,Working full-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+97,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+98,less than 4,65 or more,Very Good,Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+99,less than 4,65 or more,Good,Good,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+100,less than 4,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+101,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+102,4 or more,65 or more,Fair,Very Good,Very Good,Retired,Yes,Yes,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+103,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"Other, Non Hispanic",Male
+104,less than 4,65 or more,Good,Very Good,Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+105,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+106,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+107,less than 4,65 or more,Fair,Very Good,Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+108,less than 4,65 or more,Good,Excellent,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+109,less than 4,65 or more,Fair,Very Good,Excellent,Working part-time,Yes,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+110,4 or more,65 or more,Good,Very Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+111,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+112,less than 4,65 or more,Excellent,Excellent,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+113,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,Yes,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+114,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+115,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+116,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+117,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+118,less than 4,65 or more,Good,Excellent,Very Good,Retired,Yes,No,Yes,Yes,No,Ocassionally,Refused,"White, Non-Hispanic",Female
+119,4 or more,65 or more,Good,Very Good,Refused,Retired,No,No,No,Yes,No,Ocassionally,Use regularly,"White, Non-Hispanic",Male
+120,less than 4,65 or more,Good,Excellent,Refused,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"Black, Non Hispanic",Female
+121,less than 4,65 or more,Excellent,Excellent,Very Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+122,less than 4,65 or more,Good,Good,Refused,Not working,Yes,No,No,No,No,regularly,Do not use,"Other, Non Hispanic",Female
+123,less than 4,65 or more,Fair,Good,Good,Working part-time,No,No,No,Yes,No,No,Use ocassionally,"White, Non-Hispanic",Female
+124,less than 4,65 or more,Good,Excellent,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+125,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+126,less than 4,65 or more,Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+127,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+128,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+129,4 or more,65 or more,Fair,Very Good,Good,Retired,Yes,No,Yes,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+130,4 or more,65 or more,Fair,Fair,Fair,Retired,No,No,Yes,No,Yes,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+131,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+132,less than 4,65 or more,Good,Good,Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+133,4 or more,65 or more,Good,Very Good,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+134,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+135,less than 4,65 or more,Very Good,Good,Very Good,Working full-time,Yes,No,No,No,Yes,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Male
+136,4 or more,65 or more,Poor,Good,Good,Retired,Yes,No,Yes,No,Yes,regularly,Use regularly,"White, Non-Hispanic",Male
+137,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+138,less than 4,65 or more,Good,Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+139,less than 4,65 or more,Very Good,Good,Good,Retired,Yes,Yes,No,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+140,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+141,4 or more,65 or more,Good,Good,Fair,Retired,Yes,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+142,4 or more,65 or more,Excellent,Excellent,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+143,less than 4,65 or more,Good,Excellent,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+144,less than 4,65 or more,Fair,Very Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+145,4 or more,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+146,less than 4,65 or more,Fair,Excellent,Poor,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+147,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+148,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+149,less than 4,65 or more,Good,Good,Fair,Not working,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+150,less than 4,65 or more,Fair,Excellent,Good,Retired,No,No,Yes,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+151,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+152,4 or more,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"Other, Non Hispanic",Male
+153,less than 4,65 or more,Fair,Excellent,Refused,Retired,No,No,No,No,Yes,No,Do not use,"2+ Races, Non-Hispanic",Male
+154,less than 4,65 or more,Very Good,Very Good,Excellent,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+155,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Male
+156,4 or more,65 or more,Good,Good,Very Good,Retired,No,Yes,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+157,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,Hispanic,Male
+158,less than 4,65 or more,Good,Good,Very Good,Working part-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+159,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+160,4 or more,65 or more,Good,Very Good,Good,Working part-time,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+161,less than 4,65 or more,Fair,Very Good,Very Good,Retired,No,No,Yes,Yes,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+162,less than 4,65 or more,Good,Excellent,Fair,Retired,Yes,No,Yes,No,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+163,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+164,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"Black, Non Hispanic",Female
+165,less than 4,65 or more,Fair,Very Good,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+166,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+167,less than 4,65 or more,Fair,Good,Fair,Retired,No,No,No,Yes,Yes,regularly,Use regularly,"White, Non-Hispanic",Male
+168,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+169,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Male
+170,less than 4,65 or more,Fair,Excellent,Fair,Retired,No,No,Yes,No,No,regularly,Use regularly,"White, Non-Hispanic",Male
+171,less than 4,65 or more,Good,Very Good,Poor,Retired,No,No,Yes,No,No,No,Do not use,"White, Non-Hispanic",Male
+172,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+173,less than 4,65 or more,Fair,Excellent,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+174,less than 4,65 or more,Good,Excellent,Refused,Retired,No,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+175,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+176,less than 4,65 or more,Fair,Fair,Fair,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+177,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,Yes,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+178,less than 4,65 or more,Very Good,Excellent,Excellent,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+179,less than 4,65 or more,Poor,Excellent,Good,Working full-time,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Male
+180,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+181,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+182,4 or more,65 or more,Good,Good,Fair,Working full-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+183,less than 4,65 or more,Poor,Fair,Poor,Retired,No,No,Yes,No,No,regularly,Do not use,"White, Non-Hispanic",Female
+184,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+185,less than 4,65 or more,Fair,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+186,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+187,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+188,4 or more,65 or more,Fair,Good,Good,Retired,No,No,Yes,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+189,4 or more,65 or more,Good,Very Good,Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+190,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+191,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+192,less than 4,65 or more,Very Good,Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+193,less than 4,65 or more,Good,Very Good,Very Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+194,less than 4,65 or more,Fair,Fair,Poor,Not working,No,No,No,No,No,regularly,Do not use,"White, Non-Hispanic",Male
+195,less than 4,65 or more,Poor,Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+196,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+197,less than 4,65 or more,Excellent,Very Good,Excellent,Working part-time,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+198,less than 4,65 or more,Excellent,Excellent,Excellent,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+199,less than 4,65 or more,Fair,Fair,Refused,Retired,No,Yes,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+200,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+201,less than 4,65 or more,Good,Good,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+202,4 or more,65 or more,Fair,Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+203,less than 4,65 or more,Good,Very Good,Fair,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+204,4 or more,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+205,4 or more,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+206,less than 4,65 or more,Very Good,Refused,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+207,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+208,less than 4,65 or more,Poor,Fair,Good,Retired,No,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+209,less than 4,65 or more,Very Good,Very Good,Good,Retired,Yes,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+210,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+211,less than 4,65 or more,Good,Good,Fair,Retired,Yes,Yes,Yes,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+212,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+213,4 or more,65 or more,Excellent,Good,Very Good,Retired,No,Yes,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+214,less than 4,65 or more,Good,Excellent,Very Good,Working full-time,Yes,No,Yes,No,No,No,Do not use,"2+ Races, Non-Hispanic",Female
+215,4 or more,65 or more,Fair,Good,Good,Retired,Yes,No,Yes,Yes,No,Ocassionally,Use regularly,"White, Non-Hispanic",Male
+216,4 or more,65 or more,Good,Excellent,Very Good,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+217,4 or more,65 or more,Very Good,Very Good,Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+218,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+219,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+220,less than 4,65 or more,Very Good,Very Good,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+221,less than 4,65 or more,Good,Good,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+222,4 or more,65 or more,Good,Good,Very Good,Retired,Yes,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+223,4 or more,65 or more,Fair,Very Good,Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+224,4 or more,65 or more,Fair,Very Good,Refused,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+225,4 or more,65 or more,Excellent,Very Good,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+226,less than 4,65 or more,Good,Fair,Good,Retired,Yes,No,Yes,Yes,No,Ocassionally,Do not use,Hispanic,Male
+227,less than 4,65 or more,Excellent,Excellent,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+228,less than 4,65 or more,Very Good,Very Good,Very Good,Working part-time,No,No,No,Yes,No,No,Do not use,"Other, Non Hispanic",Male
+229,less than 4,65 or more,Good,Fair,Fair,Working full-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+230,less than 4,65 or more,Very Good,Excellent,Very Good,Working part-time,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+231,less than 4,65 or more,Good,Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+232,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+233,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+234,less than 4,65 or more,Good,Very Good,Fair,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+235,less than 4,65 or more,Good,Good,Fair,Retired,No,No,Yes,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+236,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+237,less than 4,65 or more,Excellent,Excellent,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+238,less than 4,65 or more,Good,Good,Good,Retired,Yes,Yes,Yes,Yes,No,Ocassionally,Do not use,Hispanic,Female
+239,less than 4,65 or more,Good,Good,Good,Retired,No,No,Yes,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+240,less than 4,65 or more,Very Good,Very Good,Refused,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+241,less than 4,65 or more,Very Good,Good,Excellent,Retired,Yes,No,No,No,No,No,Use ocassionally,"White, Non-Hispanic",Male
+242,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"2+ Races, Non-Hispanic",Female
+243,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+244,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+245,less than 4,65 or more,Good,Good,Good,Retired,Yes,No,No,No,No,No,Do not use,Hispanic,Female
+246,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+247,4 or more,65 or more,Good,Excellent,Very Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+248,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+249,less than 4,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+250,4 or more,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+251,4 or more,65 or more,Good,Good,Good,Retired,Yes,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+252,less than 4,65 or more,Excellent,Excellent,Fair,Retired,No,No,Yes,Yes,Yes,No,Do not use,"Black, Non Hispanic",Female
+253,4 or more,65 or more,Fair,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+254,4 or more,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,No,Use regularly,"White, Non-Hispanic",Male
+255,4 or more,65 or more,Good,Good,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+256,4 or more,65 or more,Fair,Very Good,Refused,Retired,No,No,Yes,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+257,4 or more,65 or more,Good,Very Good,Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"Other, Non Hispanic",Female
+258,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+259,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+260,less than 4,65 or more,Good,Very Good,Very Good,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+261,4 or more,65 or more,Good,Excellent,Excellent,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+262,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+263,less than 4,65 or more,Fair,Very Good,Refused,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+264,4 or more,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,No,Use regularly,"White, Non-Hispanic",Male
+265,4 or more,65 or more,Good,Very Good,Fair,Retired,No,Yes,Yes,No,No,regularly,Do not use,"Black, Non Hispanic",Female
+266,less than 4,65 or more,Good,Excellent,Fair,Retired,No,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+267,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+268,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+269,less than 4,65 or more,Fair,Fair,Fair,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+270,4 or more,65 or more,Very Good,Good,Very Good,Retired,Yes,No,No,Yes,No,regularly,Use regularly,"White, Non-Hispanic",Male
+271,less than 4,65 or more,Excellent,Excellent,Very Good,Working part-time,No,No,No,Yes,No,Ocassionally,Do not use,"Other, Non Hispanic",Male
+272,less than 4,65 or more,Very Good,Excellent,Fair,Working full-time,Yes,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+273,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,Yes,No,No,regularly,Use regularly,"White, Non-Hispanic",Female
+274,less than 4,65 or more,Good,Refused,Refused,Working part-time,No,No,No,Yes,Yes,regularly,Use ocassionally,"White, Non-Hispanic",Male
+275,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+276,4 or more,65 or more,Fair,Good,Refused,Retired,No,No,Yes,No,No,No,Do not use,"White, Non-Hispanic",Male
+277,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+278,less than 4,65 or more,Good,Very Good,Poor,Not working,Yes,No,No,No,No,No,Do not use,Hispanic,Female
+279,less than 4,65 or more,Fair,Fair,Good,Not working,No,No,No,No,Yes,regularly,Use regularly,Hispanic,Female
+280,less than 4,65 or more,Fair,Good,Fair,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+281,4 or more,65 or more,Fair,Good,Good,Retired,Yes,Yes,Yes,Yes,No,No,Do not use,"Black, Non Hispanic",Female
+282,less than 4,65 or more,Good,Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+283,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+284,4 or more,65 or more,Fair,Good,Refused,Retired,No,Yes,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+285,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+286,less than 4,65 or more,Very Good,Refused,Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+287,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+288,less than 4,65 or more,Good,Very Good,Good,Working part-time,No,No,Yes,Yes,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+289,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+290,4 or more,65 or more,Good,Excellent,Good,Retired,No,No,No,Yes,Yes,No,Do not use,"Black, Non Hispanic",Female
+291,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+292,less than 4,65 or more,Very Good,Excellent,Good,Working full-time,Yes,No,Yes,No,No,Ocassionally,Do not use,"Black, Non Hispanic",Female
+293,less than 4,65 or more,Very Good,Excellent,Excellent,Working full-time,Yes,No,No,No,Yes,No,Do not use,"Other, Non Hispanic",Female
+294,less than 4,65 or more,Very Good,Excellent,Refused,Not working,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+295,less than 4,65 or more,Good,Very Good,Fair,Retired,Yes,No,No,No,Yes,Ocassionally,Use ocassionally,"2+ Races, Non-Hispanic",Female
+296,less than 4,65 or more,Good,Excellent,Excellent,Working part-time,No,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Male
+297,4 or more,65 or more,Excellent,Excellent,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+298,less than 4,65 or more,Very Good,Very Good,Refused,Retired,No,No,No,No,Yes,No,Do not use,Hispanic,Female
+299,less than 4,65 or more,Good,Good,Fair,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+300,less than 4,65 or more,Good,Good,Fair,Retired,Yes,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+301,4 or more,65 or more,Good,Excellent,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+302,less than 4,65 or more,Good,Good,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+303,less than 4,65 or more,Poor,Very Good,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+304,4 or more,65 or more,Fair,Very Good,Very Good,Retired,Yes,No,Yes,No,Yes,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Male
+305,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Male
+306,less than 4,65 or more,Very Good,Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+307,4 or more,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+308,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,Yes,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+309,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+310,less than 4,65 or more,Good,Very Good,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+311,less than 4,65 or more,Excellent,Excellent,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+312,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+313,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+314,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Male
+315,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+316,4 or more,65 or more,Poor,Excellent,Excellent,Not working,No,No,No,No,Yes,regularly,Use regularly,"White, Non-Hispanic",Male
+317,less than 4,65 or more,Very Good,Excellent,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+318,4 or more,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+319,less than 4,65 or more,Excellent,Refused,Excellent,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+320,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+321,less than 4,65 or more,Excellent,Excellent,Excellent,Retired,No,No,No,No,No,No,Do not use,"Black, Non Hispanic",Male
+322,4 or more,65 or more,Fair,Excellent,Good,Retired,No,Yes,Yes,No,No,Ocassionally,Do not use,Hispanic,Male
+323,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+324,4 or more,65 or more,Very Good,Excellent,Excellent,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+325,less than 4,65 or more,Excellent,Excellent,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+326,less than 4,65 or more,Good,Fair,Very Good,Retired,Yes,No,No,No,No,regularly,Do not use,"White, Non-Hispanic",Male
+327,less than 4,65 or more,Good,Excellent,Very Good,Working full-time,No,No,Yes,Yes,No,No,Do not use,Hispanic,Female
+328,less than 4,65 or more,Good,Good,Fair,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+329,4 or more,65 or more,Fair,Very Good,Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+330,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+331,less than 4,65 or more,Fair,Good,Fair,Retired,Yes,Yes,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+332,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,Hispanic,Male
+333,less than 4,65 or more,Very Good,Very Good,Excellent,Retired,Yes,No,Yes,No,No,No,Do not use,"White, Non-Hispanic",Male
+334,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+335,4 or more,65 or more,Good,Very Good,Good,Retired,Yes,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+336,4 or more,65 or more,Fair,Fair,Poor,Not working,No,No,No,No,Yes,regularly,Use regularly,"White, Non-Hispanic",Female
+337,4 or more,65 or more,Good,Good,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+338,less than 4,65 or more,Good,Good,Good,Retired,Yes,No,No,No,Yes,No,Do not use,"Black, Non Hispanic",Female
+339,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+340,4 or more,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+341,4 or more,65 or more,Fair,Refused,Good,Retired,Yes,No,Yes,No,No,No,Do not use,"Black, Non Hispanic",Male
+342,less than 4,65 or more,Very Good,Refused,Very Good,Retired,No,No,No,No,No,No,Do not use,"Black, Non Hispanic",Male
+343,4 or more,65 or more,Fair,Very Good,Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+344,less than 4,65 or more,Fair,Good,Good,Retired,No,No,Yes,Yes,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+345,less than 4,65 or more,Very Good,Excellent,Very Good,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+346,less than 4,65 or more,Poor,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+347,less than 4,65 or more,Good,Very Good,Good,Working full-time,No,No,No,No,Yes,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Female
+348,4 or more,65 or more,Fair,Very Good,Fair,Retired,No,No,Yes,Yes,Yes,regularly,Use regularly,"2+ Races, Non-Hispanic",Female
+349,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+350,less than 4,65 or more,Very Good,Very Good,Fair,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+351,4 or more,65 or more,Good,Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Female
+352,less than 4,65 or more,Good,Fair,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+353,less than 4,65 or more,Fair,Very Good,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"Other, Non Hispanic",Female
+354,4 or more,65 or more,Good,Very Good,Fair,Retired,No,Yes,No,No,Yes,No,Do not use,"Black, Non Hispanic",Female
+355,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+356,less than 4,65 or more,Very Good,Very Good,Excellent,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+357,4 or more,65 or more,Good,Excellent,Fair,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+358,less than 4,65 or more,Good,Good,Very Good,Working part-time,Yes,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+359,less than 4,65 or more,Excellent,Good,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+360,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"Other, Non Hispanic",Female
+361,4 or more,65 or more,Fair,Good,Good,Retired,No,No,No,Yes,No,regularly,Refused,"White, Non-Hispanic",Female
+362,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+363,less than 4,65 or more,Fair,Good,Fair,Retired,No,Yes,No,Yes,Yes,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Male
+364,4 or more,65 or more,Fair,Very Good,Fair,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Female
+365,4 or more,65 or more,Very Good,Very Good,Excellent,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+366,4 or more,65 or more,Very Good,Very Good,Very Good,Not working,Yes,No,No,Yes,No,No,Do not use,"Other, Non Hispanic",Female
+367,4 or more,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+368,less than 4,65 or more,Good,Good,Good,Retired,No,Yes,Yes,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+369,4 or more,65 or more,Fair,Very Good,Refused,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,Hispanic,Female
+370,less than 4,65 or more,Fair,Good,Poor,Retired,Yes,No,Yes,No,No,No,Do not use,Hispanic,Female
+371,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+372,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,Yes,regularly,Do not use,"2+ Races, Non-Hispanic",Female
+373,less than 4,65 or more,Good,Good,Good,Working full-time,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+374,4 or more,65 or more,Very Good,Very Good,Good,Working part-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+375,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+376,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+377,less than 4,65 or more,Good,Excellent,Poor,Working full-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+378,less than 4,65 or more,Very Good,Good,Refused,Retired,No,No,Yes,No,No,No,Do not use,"White, Non-Hispanic",Male
+379,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+380,less than 4,65 or more,Very Good,Very Good,Good,Working part-time,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+381,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Male
+382,less than 4,65 or more,Good,Very Good,Good,Retired,Yes,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+383,less than 4,65 or more,Good,Excellent,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+384,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+385,less than 4,65 or more,Excellent,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+386,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+387,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,Yes,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+388,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,No,No,No,No,No,Use ocassionally,"White, Non-Hispanic",Male
+389,4 or more,65 or more,Fair,Good,Refused,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+390,less than 4,65 or more,Very Good,Excellent,Fair,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+391,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+392,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+393,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+394,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+395,4 or more,65 or more,Excellent,Very Good,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+396,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,Hispanic,Female
+397,4 or more,65 or more,Fair,Very Good,Fair,Retired,No,No,Yes,Yes,No,regularly,Do not use,"2+ Races, Non-Hispanic",Female
+398,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+399,less than 4,65 or more,Fair,Good,Good,Retired,No,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+400,less than 4,65 or more,Good,Very Good,Good,Retired,Yes,Yes,No,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+401,4 or more,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+402,4 or more,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+403,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+404,4 or more,65 or more,Poor,Very Good,Poor,Retired,No,No,No,No,Yes,regularly,Use regularly,"Black, Non Hispanic",Male
+405,less than 4,65 or more,Good,Very Good,Excellent,Retired,No,No,Yes,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+406,less than 4,65 or more,Good,Good,Very Good,Retired,Yes,No,Yes,Yes,No,No,Do not use,"2+ Races, Non-Hispanic",Female
+407,less than 4,65 or more,Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+408,less than 4,65 or more,Very Good,Very Good,Refused,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+409,less than 4,65 or more,Fair,Fair,Poor,Retired,Yes,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+410,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+411,less than 4,65 or more,Good,Excellent,Excellent,Retired,Yes,No,No,No,No,regularly,Do not use,"White, Non-Hispanic",Female
+412,4 or more,65 or more,Fair,Good,Fair,Retired,Yes,No,Yes,Yes,No,No,Use regularly,"White, Non-Hispanic",Female
+413,4 or more,65 or more,Very Good,Very Good,Fair,Working part-time,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+414,4 or more,65 or more,Very Good,Good,Good,Retired,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+415,less than 4,65 or more,Very Good,Very Good,Poor,Working full-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+416,less than 4,65 or more,Good,Excellent,Good,Working full-time,No,No,Yes,Yes,No,No,Do not use,"Black, Non Hispanic",Male
+417,4 or more,65 or more,Very Good,Very Good,Very Good,Working full-time,Yes,No,Yes,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+418,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Female
+419,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+420,4 or more,65 or more,Fair,Excellent,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+421,less than 4,65 or more,Very Good,Very Good,Excellent,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+422,4 or more,65 or more,Fair,Fair,Good,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+423,less than 4,65 or more,Very Good,Very Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+424,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+425,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,Yes,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+426,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+427,less than 4,65 or more,Fair,Very Good,Good,Working full-time,No,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+428,less than 4,65 or more,Very Good,Excellent,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+429,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+430,less than 4,65 or more,Fair,Very Good,Good,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+431,4 or more,65 or more,Very Good,Excellent,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+432,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+433,less than 4,65 or more,Good,Good,Good,Retired,No,No,Yes,No,No,No,Do not use,"White, Non-Hispanic",Male
+434,less than 4,65 or more,Very Good,Good,Very Good,Retired,No,No,No,Yes,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+435,4 or more,65 or more,Good,Good,Excellent,Retired,Yes,Yes,Yes,No,Yes,regularly,Use regularly,"White, Non-Hispanic",Male
+436,less than 4,65 or more,Good,Excellent,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+437,4 or more,65 or more,Poor,Very Good,Good,Not working,No,No,Yes,Yes,No,regularly,Use regularly,"White, Non-Hispanic",Female
+438,4 or more,65 or more,Fair,Good,Fair,Retired,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+439,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,Hispanic,Female
+440,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+441,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+442,4 or more,65 or more,Good,Excellent,Refused,Retired,No,No,Yes,No,Yes,Ocassionally,Use regularly,"White, Non-Hispanic",Female
+443,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+444,4 or more,65 or more,Very Good,Very Good,Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+445,less than 4,65 or more,Fair,Good,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+446,less than 4,65 or more,Excellent,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+447,less than 4,65 or more,Fair,Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"Black, Non Hispanic",Female
+448,4 or more,65 or more,Good,Good,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+449,less than 4,65 or more,Poor,Fair,Good,Retired,Yes,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+450,less than 4,65 or more,Fair,Fair,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+451,less than 4,65 or more,Very Good,Excellent,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+452,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+453,less than 4,65 or more,Good,Good,Refused,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Female
+454,less than 4,65 or more,Very Good,Very Good,Excellent,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+455,4 or more,65 or more,Fair,Good,Very Good,Retired,No,No,Yes,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+456,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+457,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+458,less than 4,65 or more,Fair,Fair,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+459,less than 4,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+460,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+461,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+462,less than 4,65 or more,Excellent,Excellent,Excellent,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+463,4 or more,65 or more,Good,Good,Very Good,Retired,No,Yes,No,Yes,Yes,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+464,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+465,less than 4,65 or more,Good,Very Good,Good,Working full-time,No,No,No,No,Yes,Refused,Do not use,"White, Non-Hispanic",Female
+466,4 or more,65 or more,Good,Excellent,Fair,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+467,4 or more,65 or more,Good,Very Good,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+468,less than 4,65 or more,Good,Very Good,Fair,Working part-time,Yes,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+469,less than 4,65 or more,Fair,Very Good,Fair,Retired,Yes,No,No,Yes,No,regularly,Do not use,"2+ Races, Non-Hispanic",Female
+470,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,Hispanic,Female
+471,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+472,less than 4,65 or more,Very Good,Fair,Very Good,Retired,No,Yes,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+473,less than 4,65 or more,Good,Very Good,Good,Working part-time,Yes,No,Yes,No,No,Ocassionally,Use regularly,"White, Non-Hispanic",Male
+474,less than 4,65 or more,Very Good,Very Good,Good,Working full-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+475,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,regularly,Do not use,"White, Non-Hispanic",Male
+476,less than 4,65 or more,Good,Good,Good,Working part-time,Yes,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+477,4 or more,65 or more,Fair,Very Good,Poor,Retired,No,Yes,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+478,4 or more,65 or more,Excellent,Excellent,Good,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+479,less than 4,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+480,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+481,less than 4,65 or more,Good,Very Good,Poor,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+482,less than 4,65 or more,Good,Very Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,Hispanic,Male
+483,less than 4,65 or more,Fair,Excellent,Excellent,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+484,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+485,less than 4,65 or more,Fair,Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+486,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+487,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+488,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"Other, Non Hispanic",Male
+489,4 or more,65 or more,Fair,Good,Fair,Not working,No,Yes,Yes,Yes,No,Ocassionally,Do not use,Hispanic,Female
+490,less than 4,65 or more,Fair,Good,Poor,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"Black, Non Hispanic",Female
+491,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"Other, Non Hispanic",Female
+492,less than 4,65 or more,Poor,Fair,Poor,Retired,No,No,No,Yes,Yes,No,Do not use,"Other, Non Hispanic",Male
+493,4 or more,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Female
+494,less than 4,65 or more,Good,Fair,Poor,Retired,Yes,Yes,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+495,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+496,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+497,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+498,4 or more,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,Yes,No,Do not use,"Other, Non Hispanic",Female
+499,less than 4,65 or more,Good,Very Good,Poor,Working full-time,Yes,No,No,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Female
+500,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,No,Yes,No,No,regularly,Use regularly,"White, Non-Hispanic",Female
+501,less than 4,65 or more,Good,Very Good,Very Good,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+502,less than 4,65 or more,Excellent,Excellent,Excellent,Working part-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+503,4 or more,65 or more,Good,Good,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+504,less than 4,65 or more,Very Good,Very Good,Poor,Working part-time,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+505,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+506,less than 4,65 or more,Very Good,Good,Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+507,less than 4,65 or more,Fair,Very Good,Fair,Retired,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Male
+508,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+509,less than 4,65 or more,Very Good,Excellent,Fair,Working full-time,No,No,Yes,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+510,less than 4,65 or more,Fair,Fair,Fair,Retired,Yes,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+511,less than 4,65 or more,Good,Excellent,Good,Retired,Yes,No,Yes,Yes,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+512,less than 4,65 or more,Good,Good,Fair,Working full-time,Yes,No,Yes,No,No,No,Do not use,"2+ Races, Non-Hispanic",Male
+513,less than 4,65 or more,Very Good,Very Good,Good,Retired,No,No,No,No,No,Ocassionally,Do not use,"2+ Races, Non-Hispanic",Female
+514,less than 4,65 or more,Fair,Very Good,Fair,Working full-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+515,less than 4,65 or more,Refused,Good,Poor,Retired,No,No,No,Yes,No,No,Refused,"Black, Non Hispanic",Female
+516,4 or more,65 or more,Good,Refused,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+517,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+518,less than 4,65 or more,Good,Very Good,Fair,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+519,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Male
+520,less than 4,65 or more,Very Good,Excellent,Very Good,Working part-time,No,No,No,No,Yes,No,Do not use,"Other, Non Hispanic",Male
+521,less than 4,65 or more,Fair,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+522,less than 4,65 or more,Fair,Very Good,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+523,less than 4,65 or more,Excellent,Very Good,Very Good,Working full-time,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+524,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+525,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,Yes,No,Do not use,Hispanic,Male
+526,less than 4,65 or more,Poor,Excellent,Poor,Retired,No,Yes,Yes,No,No,regularly,Do not use,"White, Non-Hispanic",Male
+527,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"Black, Non Hispanic",Male
+528,less than 4,65 or more,Good,Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+529,less than 4,65 or more,Excellent,Excellent,Excellent,Retired,No,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Female
+530,less than 4,65 or more,Good,Good,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+531,4 or more,65 or more,Fair,Good,Very Good,Retired,No,Yes,No,No,Yes,No,Use regularly,"White, Non-Hispanic",Female
+532,4 or more,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,regularly,Use ocassionally,"White, Non-Hispanic",Female
+533,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,Yes,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+534,4 or more,65 or more,Good,Excellent,Excellent,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+535,less than 4,65 or more,Good,Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+536,4 or more,65 or more,Good,Very Good,Good,Retired,Yes,No,No,No,No,regularly,Do not use,"White, Non-Hispanic",Female
+537,less than 4,65 or more,Fair,Good,Very Good,Retired,No,No,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+538,less than 4,65 or more,Very Good,Very Good,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+539,less than 4,65 or more,Good,Good,Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+540,4 or more,65 or more,Good,Excellent,Very Good,Working full-time,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+541,less than 4,65 or more,Very Good,Very Good,Refused,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+542,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+543,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,Hispanic,Female
+544,less than 4,65 or more,Good,Good,Good,Retired,Yes,No,Yes,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+545,4 or more,65 or more,Good,Excellent,Good,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+546,less than 4,65 or more,Very Good,Very Good,Good,Retired,Yes,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+547,4 or more,65 or more,Fair,Very Good,Fair,Retired,No,Yes,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+548,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,Hispanic,Male
+549,4 or more,65 or more,Good,Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+550,less than 4,65 or more,Excellent,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+551,less than 4,65 or more,Fair,Fair,Refused,Working part-time,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+552,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+553,4 or more,65 or more,Very Good,Very Good,Fair,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+554,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,Hispanic,Male
+555,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+556,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,No,regularly,Do not use,"White, Non-Hispanic",Male
+557,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+558,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+559,4 or more,65 or more,Good,Excellent,Poor,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+560,less than 4,65 or more,Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Female
+561,less than 4,65 or more,Good,Very Good,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+562,less than 4,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+563,4 or more,65 or more,Fair,Very Good,Very Good,Not working,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+564,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+565,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+566,less than 4,65 or more,Good,Excellent,Very Good,Working full-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+567,4 or more,65 or more,Good,Very Good,Refused,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+568,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,No,No,No,Do not use,"White, Non-Hispanic",Female
+569,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+570,less than 4,65 or more,Very Good,Excellent,Very Good,Working full-time,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+571,4 or more,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+572,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+573,4 or more,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,Yes,Yes,No,Use ocassionally,"White, Non-Hispanic",Male
+574,4 or more,65 or more,Fair,Poor,Refused,Retired,No,No,No,No,Yes,No,Use ocassionally,"White, Non-Hispanic",Female
+575,less than 4,65 or more,Very Good,Very Good,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+576,4 or more,65 or more,Poor,Poor,Good,Retired,Yes,Yes,Yes,Yes,No,regularly,Use regularly,"White, Non-Hispanic",Male
+577,less than 4,65 or more,Fair,Good,Fair,Retired,Yes,No,No,No,No,No,Do not use,Hispanic,Female
+578,4 or more,65 or more,Fair,Very Good,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+579,less than 4,65 or more,Good,Excellent,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+580,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"Black, Non Hispanic",Female
+581,less than 4,65 or more,Very Good,Excellent,Good,Retired,Yes,No,No,No,No,No,Do not use,Hispanic,Female
+582,less than 4,65 or more,Good,Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+583,less than 4,65 or more,Fair,Good,Very Good,Working full-time,No,No,No,No,No,No,Use regularly,"White, Non-Hispanic",Male
+584,less than 4,65 or more,Good,Very Good,Poor,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"Black, Non Hispanic",Female
+585,less than 4,65 or more,Fair,Good,Excellent,Retired,Yes,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+586,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+587,4 or more,65 or more,Good,Very Good,Excellent,Retired,No,No,No,No,Yes,Ocassionally,Do not use,Hispanic,Female
+588,less than 4,65 or more,Fair,Excellent,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+589,4 or more,65 or more,Poor,Good,Poor,Not working,Yes,No,Yes,Yes,No,regularly,Use ocassionally,Hispanic,Female
+590,less than 4,65 or more,Very Good,Very Good,Very Good,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+591,4 or more,65 or more,Very Good,Excellent,Fair,Working part-time,No,No,No,Yes,Yes,Ocassionally,Do not use,"Other, Non Hispanic",Male
+592,less than 4,65 or more,Fair,Fair,Fair,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Female
+593,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+594,4 or more,65 or more,Fair,Good,Refused,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+595,less than 4,65 or more,Excellent,Very Good,Excellent,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+596,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+597,4 or more,65 or more,Good,Good,Good,Not working,No,No,No,No,Yes,regularly,Do not use,"White, Non-Hispanic",Female
+598,4 or more,65 or more,Poor,Very Good,Fair,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+599,less than 4,65 or more,Very Good,Very Good,Very Good,Working full-time,No,No,No,Yes,Yes,No,Do not use,"Other, Non Hispanic",Male
+600,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,Hispanic,Female
+601,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,No,No,Do not use,"Black, Non Hispanic",Female
+602,less than 4,65 or more,Fair,Good,Refused,Retired,Yes,No,Yes,No,No,Ocassionally,Do not use,Hispanic,Male
+603,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+604,less than 4,65 or more,Good,Good,Fair,Retired,No,Yes,No,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+605,less than 4,65 or more,Good,Excellent,Good,Not working,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+606,less than 4,65 or more,Very Good,Excellent,Good,Working part-time,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+607,less than 4,65 or more,Very Good,Very Good,Fair,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+608,less than 4,65 or more,Very Good,Excellent,Very Good,Working part-time,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+609,4 or more,65 or more,Good,Very Good,Poor,Retired,Yes,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+610,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,regularly,Use regularly,"White, Non-Hispanic",Male
+611,4 or more,65 or more,Good,Good,Very Good,Retired,Yes,No,No,Yes,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Female
+612,4 or more,65 or more,Fair,Excellent,Fair,Retired,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+613,4 or more,65 or more,Very Good,Very Good,Excellent,Working part-time,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+614,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,No,No,Do not use,Hispanic,Female
+615,less than 4,65 or more,Fair,Good,Fair,Retired,No,No,Yes,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+616,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+617,4 or more,65 or more,Good,Very Good,Refused,Working full-time,No,No,Yes,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+618,less than 4,65 or more,Excellent,Excellent,Very Good,Working full-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+619,less than 4,65 or more,Excellent,Excellent,Very Good,Working part-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+620,less than 4,65 or more,Excellent,Very Good,Fair,Working full-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+621,less than 4,65 or more,Excellent,Very Good,Fair,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+622,4 or more,65 or more,Good,Excellent,Poor,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+623,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+624,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+625,less than 4,65 or more,Good,Fair,Very Good,Retired,Yes,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+626,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+627,less than 4,65 or more,Very Good,Excellent,Fair,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"Black, Non Hispanic",Male
+628,4 or more,65 or more,Very Good,Good,Excellent,Retired,No,No,No,No,Yes,regularly,Use ocassionally,"White, Non-Hispanic",Female
+629,4 or more,65 or more,Very Good,Excellent,Excellent,Working full-time,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+630,less than 4,65 or more,Good,Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+631,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+632,4 or more,65 or more,Good,Excellent,Excellent,Retired,No,Yes,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+633,less than 4,65 or more,Fair,Good,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+634,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+635,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+636,4 or more,65 or more,Good,Excellent,Poor,Not working,Yes,No,Yes,No,No,regularly,Do not use,"Black, Non Hispanic",Female
+637,less than 4,65 or more,Excellent,Excellent,Excellent,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+638,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+639,less than 4,65 or more,Poor,Good,Poor,Retired,No,No,Yes,No,No,Ocassionally,Use ocassionally,"White, Non-Hispanic",Male
+640,4 or more,65 or more,Good,Good,Excellent,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+641,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+642,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,No,No,Do not use,"Black, Non Hispanic",Male
+643,4 or more,65 or more,Good,Very Good,Very Good,Retired,Yes,No,No,No,No,No,Do not use,"White, Non-Hispanic",Female
+644,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+645,4 or more,65 or more,Very Good,Good,Good,Working part-time,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+646,less than 4,65 or more,Good,Good,Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+647,4 or more,65 or more,Fair,Very Good,Refused,Retired,No,No,Yes,No,No,Ocassionally,Use regularly,"White, Non-Hispanic",Male
+648,less than 4,65 or more,Very Good,Excellent,Good,Retired,No,Yes,Yes,No,No,Ocassionally,Do not use,"Black, Non Hispanic",Female
+649,less than 4,65 or more,Good,Good,Good,Retired,Yes,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+650,less than 4,65 or more,Excellent,Very Good,Good,Working part-time,Yes,No,No,No,No,No,Do not use,Hispanic,Female
+651,4 or more,65 or more,Good,Fair,Fair,Retired,Yes,No,No,No,Yes,No,Do not use,"2+ Races, Non-Hispanic",Male
+652,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+653,4 or more,65 or more,Good,Very Good,Refused,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+654,4 or more,65 or more,Very Good,Excellent,Very Good,Working part-time,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+655,less than 4,65 or more,Poor,Good,Refused,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+656,less than 4,65 or more,Very Good,Good,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+657,4 or more,65 or more,Poor,Good,Fair,Retired,Yes,No,Yes,No,No,regularly,Do not use,"White, Non-Hispanic",Male
+658,less than 4,65 or more,Very Good,Very Good,Good,Working full-time,No,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+659,less than 4,65 or more,Fair,Refused,Poor,Retired,No,No,No,Yes,No,No,Do not use,Hispanic,Female
+660,less than 4,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+661,4 or more,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+662,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"Black, Non Hispanic",Male
+663,less than 4,65 or more,Fair,Very Good,Refused,Working full-time,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+664,4 or more,65 or more,Fair,Good,Fair,Retired,No,No,No,No,No,No,Do not use,"Other, Non Hispanic",Male
+665,less than 4,65 or more,Good,Refused,Very Good,Retired,No,No,No,Yes,No,Ocassionally,Use ocassionally,Hispanic,Female
+666,less than 4,65 or more,Good,Very Good,Fair,Working part-time,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+667,less than 4,65 or more,Very Good,Excellent,Fair,Retired,Yes,No,No,No,No,regularly,Do not use,"Black, Non Hispanic",Male
+668,4 or more,65 or more,Good,Fair,Fair,Retired,Yes,No,Yes,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+669,4 or more,65 or more,Excellent,Excellent,Very Good,Working full-time,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+670,less than 4,65 or more,Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+671,less than 4,65 or more,Good,Excellent,Excellent,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+672,4 or more,65 or more,Fair,Good,Poor,Retired,No,Yes,No,Yes,No,regularly,Do not use,"White, Non-Hispanic",Female
+673,less than 4,65 or more,Fair,Good,Good,Retired,No,No,Yes,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+674,less than 4,65 or more,Fair,Good,Poor,Retired,No,No,Yes,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+675,less than 4,65 or more,Fair,Very Good,Refused,Not working,No,No,No,No,Yes,No,Do not use,"Black, Non Hispanic",Male
+676,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+677,less than 4,65 or more,Good,Very Good,Good,Working part-time,No,No,No,No,Yes,No,Do not use,"Black, Non Hispanic",Female
+678,4 or more,65 or more,Good,Excellent,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"Black, Non Hispanic",Female
+679,less than 4,65 or more,Very Good,Very Good,Fair,Working part-time,Yes,Yes,Yes,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+680,less than 4,65 or more,Good,Fair,Good,Working full-time,No,No,No,Yes,No,No,Do not use,Hispanic,Female
+681,less than 4,65 or more,Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Female
+682,less than 4,65 or more,Good,Very Good,Good,Retired,No,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+683,less than 4,65 or more,Fair,Fair,Poor,Retired,No,No,No,No,Yes,No,Do not use,Hispanic,Female
+684,less than 4,65 or more,Fair,Very Good,Good,Retired,Yes,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Female
+685,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+686,4 or more,65 or more,Fair,Fair,Fair,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"Other, Non Hispanic",Male
+687,less than 4,65 or more,Fair,Fair,Refused,Working full-time,Yes,Yes,Yes,No,No,Ocassionally,Use regularly,"Other, Non Hispanic",Male
+688,less than 4,65 or more,Good,Good,Fair,Working full-time,No,No,No,Yes,No,No,Do not use,Hispanic,Female
+689,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Male
+690,4 or more,65 or more,Very Good,Excellent,Excellent,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+691,4 or more,65 or more,Good,Very Good,Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+692,4 or more,65 or more,Good,Very Good,Very Good,Retired,No,Yes,Yes,Yes,No,No,Do not use,"Black, Non Hispanic",Female
+693,less than 4,65 or more,Good,Good,Refused,Retired,No,No,No,No,Yes,No,Do not use,"White, Non-Hispanic",Female
+694,less than 4,65 or more,Very Good,Excellent,Good,Working part-time,Yes,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Female
+695,4 or more,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+696,less than 4,65 or more,Fair,Very Good,Refused,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+697,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,No,Yes,regularly,Use regularly,"White, Non-Hispanic",Female
+698,4 or more,65 or more,Fair,Fair,Poor,Retired,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+699,4 or more,65 or more,Good,Excellent,Good,Retired,No,No,No,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
+700,4 or more,65 or more,Very Good,Very Good,Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+701,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,Yes,No,No,No,Ocassionally,Use regularly,Hispanic,Male
+702,less than 4,65 or more,Excellent,Excellent,Very Good,Retired,Yes,No,No,No,No,Ocassionally,Do not use,"White, Non-Hispanic",Female
+703,less than 4,65 or more,Good,Very Good,Fair,Retired,No,No,No,Yes,Yes,No,Do not use,"Black, Non Hispanic",Female
+704,4 or more,65 or more,Very Good,Excellent,Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+705,4 or more,65 or more,Fair,Good,Poor,Retired,No,No,No,Yes,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Male
+706,4 or more,65 or more,Very Good,Excellent,Excellent,Working part-time,No,No,No,Yes,Yes,No,Do not use,"White, Non-Hispanic",Male
+707,4 or more,65 or more,Fair,Very Good,Very Good,Retired,No,No,Yes,Yes,No,Refused,Do not use,"White, Non-Hispanic",Female
+708,less than 4,65 or more,Very Good,Excellent,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+709,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"Black, Non Hispanic",Male
+710,less than 4,65 or more,Very Good,Very Good,Very Good,Retired,No,No,No,Yes,No,No,Do not use,"White, Non-Hispanic",Male
+711,4 or more,65 or more,Very Good,Very Good,Very Good,Working part-time,Yes,No,No,No,Yes,Ocassionally,Do not use,"White, Non-Hispanic",Female
+712,4 or more,65 or more,Fair,Very Good,Good,Retired,No,No,No,No,No,No,Do not use,"White, Non-Hispanic",Male
+713,4 or more,65 or more,Good,Excellent,Good,Retired,Yes,No,Yes,Yes,Yes,No,Do not use,"White, Non-Hispanic",Female
+714,less than 4,65 or more,Good,Very Good,Very Good,Working full-time,Yes,No,Yes,Yes,No,Ocassionally,Do not use,"White, Non-Hispanic",Male
